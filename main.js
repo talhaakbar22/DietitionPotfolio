@@ -23,7 +23,7 @@ function menuToggle(){
 
 // CV
 const cvbtn = document.querySelector('.cv')
-const cvLink = './assets/Resume_vinicius.pdf'
+const cvLink = './assets/safaResume.pdf'
 cvbtn.setAttribute("href", cvLink)
 
 // scroll smooth
